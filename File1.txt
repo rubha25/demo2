@@ -1,2 +1,2 @@
-file1
+
 File modified in feature branch one
